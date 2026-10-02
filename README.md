@@ -141,4 +141,4 @@ refactor: clean05 - nomeia constantes de negócio
 refactor: clean06 - melhora nomes das variáveis
 ```
 
-Antes de publicar, preencha os integrantes e confirme que o remoto aponta para o repositório público do grupo.
+
